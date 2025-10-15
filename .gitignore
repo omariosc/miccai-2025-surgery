@@ -1,7 +1,3 @@
-# PDF Posters (keep local only, don't commit to GitHub)
-*.pdf
-All Posters/
-
 # macOS
 .DS_Store
 .AppleDouble
